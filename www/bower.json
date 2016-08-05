@@ -1,0 +1,17 @@
+{
+  "name": "gs1",
+  "description": "Projeto para usar no GS1 Hackaton",
+  "main": "js/app.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
